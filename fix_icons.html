@@ -7,9 +7,6 @@
   els = document.getElementById('main').querySelectorAll('.level2 > h2');
   for (i = 0; i < els.length; i++) {
     el = els[i];
-    // if (i === 0 && el.id === 'title') continue;
-    // el.className += ' main-block';
-    // if (el.dataset['concise']) el.className += ' concise';
     s = el.dataset['icon'] || 'bookmark';
     el.firstElementChild.className = 'fa fa-' + s
   }

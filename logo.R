@@ -5,7 +5,6 @@ library(ggraph)
 library(ggthemes)
 
 set.seed(123)
-# set.seed(42)
 g <- sample_smallworld(dim = 1, size = 12, nei = 2, p = 0.1)
 
 g <- as_tbl_graph(g)
