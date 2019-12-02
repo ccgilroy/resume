@@ -1,0 +1,159 @@
+---
+title: "Connor Gilroy"
+author: Connor Gilroy
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    includes:
+      after_body: fix_icons.html
+---
+
+Aside
+================================================================================
+
+
+![A small world network](logo.png){width=80%}
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> cgilroy@uw.edu
+- <i class="fa fa-globe"></i> [students.washington.edu/cgilroy](https://students.washington.edu/cgilroy)
+- <i class="fa fa-github"></i> [github.com/ccgilroy](https://github.com/ccgilroy)
+- <i class="fa fa-twitter"></i> [\@ccgilroy](https://twitter.com/ccgilroy)
+- <i class="fa fa-phone"></i> 731-225-0001
+
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**Programming:** R, Python, Stan
+
+**Data science:** Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping and APIs.
+
+
+Workshops 
+--------------------------------------------------------------------------------
+
+**CSS workshops organized:**  
+
+- [SICSS-Seattle](https://compsocialscience.github.io/summer-institute/2018/seattle/) (2018)  
+- [IUSSP training workshop on digital demography](https://github.com/CSDE-UW/IUSSP-digital-demog-2017) (Cape Town, 2017)  
+- [Computational Demography Working Group](https://csde-uw.github.io/computational-demography/) (UW, 2018-present)  
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Connor Gilroy {#title}
+--------------------------------------------------------------------------------
+
+### Computational sociologist & PhD student
+
+Currently searching for summer internships in data science or social science. 
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Washington
+
+PhD, Sociology
+
+Seattle, WA
+
+expected 2022 - 2018
+
+Comprehensive Exam: "Community: Origins, Processes, and Consequences." *Passed with distinction, June 2019*
+
+Certificate: Special Concentration in Social Statistics. *May 2019*
+
+### University of Washington
+
+MA, Sociology
+
+Seattle, WA
+
+2018 - 2015
+
+Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories."  
+*Graduate School Distinguished Thesis Award in Social Sciences, 2019*
+
+### University of Chicago 
+
+BA, Biology and Geophysical Sciences
+
+Chicago, IL
+
+2013 - 2009
+
+Minor in Gender and Sexuality Studies
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Teaching Assistant & Instructor
+
+University of Washington 
+
+Seattle, WA
+
+present - 2016
+
+- Taught sections at the undergraduate and graduate levels, such as sociological theory, data science and population processes, and Bayesian statistics for the social sciences | *R, Stata, Stan*
+- Designed and taught an undergraduate course in Data and Society | *R*
+
+### Graduate Research Assistant
+
+University of Washington 
+
+Seattle, WA
+
+2017 - 2015
+
+- Awarded two years of competitive research fellowships 
+- Built agent-based model of public opinion change in response to LGBTQ people coming out (with Katherine Stovel) | *NetLogo, R (igraph)*
+- Analyzed processes of sexuality disclosure using aggregate social media data (with Ridhi Kashyap) | *Python (facebookads), R (tidyverse)*
+
+### Quality Assurance
+
+Epic Systems Corporation 
+
+Verona, WI
+
+2015 - 2013
+
+- Automated testing of web services | *C# (Selenium), Python (requests)*
+- Manual testing and project management for EHR software | *Excel*
+
+
+
+Publications {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data. 
+
+forthcoming in *Socius*
+
+N/A
+
+2019
+
+Anna Filippova, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. (corresponding author)
+
+*Reproducible code on [GitHub](https://github.com/formidable-family/ffc-humans-in-the-loop)*

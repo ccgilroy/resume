@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans|Encode+Sans+Semi+Expanded&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css");
+
+/* 
+much of this custom stylesheet is adapted from Nick Strayer 
+https://github.com/nstrayer/cv/tree/master/css
+*/
+
+/* Main text is Encode Sans */
+body {
+  font-family: "Encode Sans", sans-serif;
+  /*font-weight: 300;
+  line-height: 1.3;
+  color: #444; */
+}
+
+/* Make headers a little wider */
+h1,
+h2,
+h3 {
+  font-family: "Encode Sans Semi Expanded", "Encode Sans", sans-serif;
+  /*color: #000;*/
+}
+
+/* link color is solarized violet */
+a:link {
+  color: #6c71c4; 
+}
+
+.aside {
+  height: 100%;
+}
+
+/* Avoid the breaking within a section */
+.blocks {
+  break-inside: avoid;
+}
+
+/* Laptop icon isn't centered by default which is lame */
+.fa-laptop {
+  margin-left: -3px;
+}
+
+/* Override default margins */
+* {
+  --pagedjs-margin-right: 0.2in;
+  --pagedjs-margin-left: 0.2in;
+  --pagedjs-margin-top: 0.8in;
+  --pagedjs-margin-bottom: 0.2in;
+}
+
+/* Customize some of the sizing variables */
+:root {
+  --sidebar-width: 14rem; /* Shrink sidebar width  */
+  --sidebar-background-color: #fdf6e3;  /* Make sidebar solarized */ 
+  --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
+  --decorator-border: 1px solid #6c71c4; /* Make timeline solarized violet */
+}
+
+/* adjust list for workshops section in sidebar */
+#workshops li::before {
+    position: relative;
+    margin-left: -4.25pt;
+    content: '• ';
+}
+
+#workshops ul {
+  margin: 0.05in 0.05in 0.15in;
+  padding: 0;
+}

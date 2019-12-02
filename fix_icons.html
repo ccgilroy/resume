@@ -1,0 +1,17 @@
+<script>
+(function() {
+  var i, s, el, els;
+  // maybe it's a pandoc update or something
+  // but the data-icon stuff gets stuck on the h2 tag, not the div tag above it
+  // this code accounts for that and changes the bookmarks to the right icons
+  els = document.getElementById('main').querySelectorAll('.level2 > h2');
+  for (i = 0; i < els.length; i++) {
+    el = els[i];
+    // if (i === 0 && el.id === 'title') continue;
+    // el.className += ' main-block';
+    // if (el.dataset['concise']) el.className += ' concise';
+    s = el.dataset['icon'] || 'bookmark';
+    el.firstElementChild.className = 'fa fa-' + s
+  }
+})();
+</script>
