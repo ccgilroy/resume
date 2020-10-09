@@ -32,9 +32,9 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-**Programming:** R, Python, Stan
+**Programming:** R, Python, Stan, SQL
 
-**Data science:** Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping and APIs.
+**Data science:** Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping, APIs, and Hive tables.
 
 
 Workshops 
@@ -44,7 +44,7 @@ Workshops
 
 - [SICSS-Seattle](https://compsocialscience.github.io/summer-institute/2018/seattle/) (2018)  
 - [IUSSP training workshop on digital demography](https://github.com/CSDE-UW/IUSSP-digital-demog-2017) (Cape Town, 2017)  
-- [Computational Demography Working Group](https://csde-uw.github.io/computational-demography/) (UW, 2018-present)  
+- [Computational Demography Working Group](https://csde-uw.github.io/computational-demography/) (UW, 2018-2020)  
 
 
 Disclaimer {#disclaimer}
@@ -64,59 +64,45 @@ Connor Gilroy {#title}
 
 ### Computational sociologist & PhD student
 
-Currently searching for summer internships in data science or social science. 
-
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### University of Washington
+### PhD, Sociology 
 
-PhD, Sociology
+University of Washington
 
 Seattle, WA
 
 expected 2022 - 2018
 
-Comprehensive Exam: "Community: Origins, Processes, and Consequences." *Passed with distinction, June 2019*
+<!-- Comprehensive Exam: "Community: Origins, Processes, and Consequences." *Passed with distinction, June 2019* -->
 
 Certificate: Special Concentration in Social Statistics. *May 2019*
 
-### University of Washington
+### MA, Sociology
 
-MA, Sociology
+University of Washington
 
 Seattle, WA
 
 2018 - 2015
 
-Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories."  
-*Graduate School Distinguished Thesis Award in Social Sciences, 2019*
+Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." *Distinguished Thesis Award in Social Sciences, 2019*
 
-### University of Chicago 
+### BA, Biology and Geophysical Sciences
 
-BA, Biology and Geophysical Sciences
+University of Chicago 
 
 Chicago, IL
 
 2013 - 2009
 
-Minor in Gender and Sexuality Studies
+<!-- Minor in Gender and Sexuality Studies -->
 
 
 Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
-
-### Graduate Teaching Assistant & Instructor
-
-University of Washington 
-
-Seattle, WA
-
-present - 2016
-
-- Taught sections at the undergraduate and graduate levels, such as sociological theory, data science and population processes, and Bayesian statistics for the social sciences | *R, Stata, Stan*
-- Designed and taught an undergraduate course in Data and Society | *R*
 
 ### Graduate Research Assistant
 
@@ -124,11 +110,39 @@ University of Washington
 
 Seattle, WA
 
-2017 - 2015
+present - 2015
 
-- Awarded two years of competitive research fellowships 
-- Built agent-based model of public opinion change in response to LGBTQ people coming out (with Katherine Stovel) | *NetLogo, R (igraph)*
-- Analyzed processes of sexuality disclosure using aggregate social media data (with Ridhi Kashyap) | *Python (facebookads), R (tidyverse)*
+- Agent-based network models (with Katherine Stovel), social media demography (with Ridhi Kashyap), text and network community detection (with Zack Almquist) | **R, Python, NetLogo**
+
+### User Experience Research Intern
+
+Facebook
+
+Seattle, WA
+
+2020
+
+- Quantitative studies of participation in new communities | **R, SQL**
+
+### Consultant, Survey Data Analysis
+
+The World Bank Group
+
+Washington, DC
+
+2020
+
+- Modeling and visualization of gender-based disparities in Central Asia | **R**
+
+### Graduate Teaching Assistant & Instructor
+
+University of Washington 
+
+Seattle, WA
+
+2020 - 2016
+
+- Sections and courses taught: sociological theory, data and society (undergraduate), social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate) | **R, Stata, Stan**
 
 ### Quality Assurance
 
@@ -138,22 +152,17 @@ Verona, WI
 
 2015 - 2013
 
-- Automated testing of web services | *C# (Selenium), Python (requests)*
-- Manual testing and project management for EHR software | *Excel*
+- Automated and manual software testing | **C#, Python, Excel**
 
-
-
-Publications {data-icon=book}
+Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
 ### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data. 
 
-forthcoming in *Socius*
+*Socius*
 
 N/A
 
 2019
 
 Anna Filippova, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. (corresponding author)
-
-*Reproducible code on [GitHub](https://github.com/formidable-family/ffc-humans-in-the-loop)*
