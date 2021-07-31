@@ -29,6 +29,8 @@ a:link {
 
 .aside {
   height: 100%;
+  padding-top: 0;
+  /*font-size: 0.8rem;*/
 }
 
 /* Avoid the breaking within a section */
@@ -45,13 +47,13 @@ a:link {
 * {
   --pagedjs-margin-right: 0.2in;
   --pagedjs-margin-left: 0.2in;
-  --pagedjs-margin-top: 0.8in;
+  --pagedjs-margin-top: 0.2in;
   --pagedjs-margin-bottom: 0.2in;
 }
 
 /* Customize some of the sizing variables */
 :root {
-  --sidebar-width: 14rem; /* Shrink sidebar width  */
+  --sidebar-width: 10rem; /* Shrink sidebar width  */
   --sidebar-background-color: #fdf6e3;  /* Make sidebar solarized */ 
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-border: 1px solid #6c71c4; /* Make timeline solarized violet */
@@ -64,7 +66,15 @@ a:link {
     content: '• ';
 }
 
+#workshops li {
+  font-size: 0.7rem;
+}
+
 #workshops ul {
   margin: 0.05in 0.05in 0.15in;
   padding: 0;
+}
+
+#title {
+  left: 0;
 }

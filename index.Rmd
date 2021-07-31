@@ -7,8 +7,6 @@ output:
     css: ['css/styles.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: true
-    includes:
-      after_body: fix_icons.html
 ---
 
 Aside
@@ -22,7 +20,7 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> cgilroy@uw.edu
-- <i class="fa fa-globe"></i> [students.washington.edu/cgilroy](https://students.washington.edu/cgilroy)
+- <i class="fa fa-globe"></i> [ccgilroy.com](https://ccgilroy.com)
 - <i class="fa fa-github"></i> [github.com/ccgilroy](https://github.com/ccgilroy)
 - <i class="fa fa-twitter"></i> [\@ccgilroy](https://twitter.com/ccgilroy)
 - <i class="fa fa-phone"></i> 731-225-0001
@@ -32,9 +30,11 @@ Contact {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-**Programming:** R, Python, Stan, SQL
+**Programming:**  
+R, Python, Stan, SQL
 
-**Data science:** Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping, APIs, and Hive tables.
+**Data science:**  
+Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping, APIs, and Hive tables.
 
 
 Workshops 
@@ -45,7 +45,7 @@ Workshops
 - [SICSS-Seattle](https://compsocialscience.github.io/summer-institute/2018/seattle/) (2018)  
 - [IUSSP training workshop on digital demography](https://github.com/CSDE-UW/IUSSP-digital-demog-2017) (Cape Town, 2017)  
 - [Computational Demography Working Group](https://csde-uw.github.io/computational-demography/) (UW, 2018-2020)  
-
+- [Word Embeddings for the Social Sciences](https://ccgilroy.github.io/word-embeddings-workshop/) (2021)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -112,7 +112,7 @@ Seattle, WA
 
 present - 2015
 
-- Agent-based network models (with Katherine Stovel), social media demography (with Ridhi Kashyap), text and network community detection (with Zack Almquist) | **R, Python, NetLogo**
+- Agent-based network models (with Katherine Stovel), text and network community detection (with Zack Almquist) | **R, Python, NetLogo**
 
 ### User Experience Research Intern
 
@@ -157,12 +157,23 @@ Verona, WI
 Selected Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
-### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data. 
+### Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media
 
-*Socius*
+N/A
+
+N/A
+
+2021
+
+**Gilroy, Connor** and Ridhi Kashyap. *Socius* 7: 1--18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
+
+### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data 
+
+N/A
 
 N/A
 
 2019
 
-Anna Filippova, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. (corresponding author)
+Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
+
