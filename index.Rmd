@@ -34,7 +34,10 @@ Skills {#skills}
 R, Python, Stan, SQL
 
 **Data science:**  
-Statistical modeling and data visualization of survey, network, spatial, and text data. Combining disparate data sources, including from web-scraping, APIs, and Hive tables.
+
+- Statistical modeling and data visualization of survey, network, spatial, and text data 
+- Designing and weighting complex surveys 
+- Combining disparate data sources, including from web-scraping, APIs, and Hive tables
 
 
 Workshops 
@@ -74,11 +77,11 @@ University of Washington
 
 Seattle, WA
 
-expected 2022 - 2018
+expected 2023 - 2018
 
 <!-- Comprehensive Exam: "Community: Origins, Processes, and Consequences." *Passed with distinction, June 2019* -->
 
-Certificate: Special Concentration in Social Statistics. *May 2019*
+- Certificate: Special Concentration in Social Statistics. *May 2019*
 
 ### MA, Sociology
 
@@ -88,7 +91,7 @@ Seattle, WA
 
 2018 - 2015
 
-Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." *Distinguished Thesis Award in Social Sciences, 2019*
+- Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." *Distinguished Thesis Award in Social Sciences, 2019*
 
 ### BA, Biology and Geophysical Sciences
 
@@ -120,9 +123,10 @@ Facebook
 
 Seattle, WA
 
-2020
+2021, 2020
 
-- Quantitative studies of participation in new communities | **R, SQL**
+- Complex survey of job seeker needs and satisfaction (2021) | **R, Python, SQL**
+- Quantitative studies of participation in new communities (2020) | **R, SQL**
 
 ### Consultant, Survey Data Analysis
 

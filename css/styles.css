@@ -75,6 +75,21 @@ a:link {
   padding: 0;
 }
 
+#skills li::before {
+    position: relative;
+    margin-left: -4.25pt;
+    content: '• ';
+}
+
+#skills li {
+  font-size: 0.7rem;
+}
+
+#skills ul {
+  margin: 0.05in 0.05in 0.15in;
+  padding: 0;
+}
+
 #title {
   left: 0;
 }
