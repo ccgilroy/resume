@@ -22,6 +22,11 @@ h3 {
   /*color: #000;*/
 }
 
+/* Make header and location land on the same line */
+#employment h3 {
+  float: left;
+}
+
 /* link color is solarized violet */
 a:link {
   color: #6c71c4; 
@@ -31,6 +36,10 @@ a:link {
   height: 100%;
   padding-top: 0;
   /*font-size: 0.8rem;*/
+}
+
+.aside .level2 {
+  margin-top: 0;
 }
 
 /* Avoid the breaking within a section */
@@ -92,4 +101,6 @@ a:link {
 
 #title {
   left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
 }

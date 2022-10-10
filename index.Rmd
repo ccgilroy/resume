@@ -23,6 +23,7 @@ Contact {#contact}
 - <i class="fa fa-globe"></i> [ccgilroy.com](https://ccgilroy.com)
 - <i class="fa fa-github"></i> [github.com/ccgilroy](https://github.com/ccgilroy)
 - <i class="fa fa-twitter"></i> [\@ccgilroy](https://twitter.com/ccgilroy)
+- <i class="fa fa-linkedin"></i> [ccgilroy](https://www.linkedin.com/in/ccgilroy/)
 - <i class="fa fa-phone"></i> 731-225-0001
 
 
@@ -31,17 +32,19 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 **Programming:**  
-R, Python, Stan, SQL
+R, Python, SQL, Stan
 
 **Data science:**  
 
-- Statistical modeling and data visualization of survey, network, spatial, and text data 
-- Designing and weighting complex surveys 
-- Combining disparate data sources, including from web-scraping, APIs, and Hive tables
+- **Data collection:** webscraping and crawling, geocoding, APIs (US Census, social media)
+- **Databases:** Hive and PostgreSQL
+- **Surveys:** stratified survey design and weighting
+- **Statistical modeling:** GLMs, hierarchical models, regularized regression, Bayesian statistics
+- **Text analysis:** topic modeling, word embeddings
+- **Data visualization:** ggplot2, matplotlib, shiny
 
-
-Workshops 
---------------------------------------------------------------------------------
+<!-- Workshops  -->
+<!-- -------------------------------------------------------------------------------- -->
 
 **CSS workshops organized:**  
 
@@ -49,6 +52,7 @@ Workshops
 - [IUSSP training workshop on digital demography](https://github.com/CSDE-UW/IUSSP-digital-demog-2017) (Cape Town, 2017)  
 - [Computational Demography Working Group](https://csde-uw.github.io/computational-demography/) (UW, 2018-2020)  
 - [Word Embeddings for the Social Sciences](https://ccgilroy.github.io/word-embeddings-workshop/) (2021)
+- [Comparing Word Embedding Models](https://colab.research.google.com/drive/16cM5NXedlrvU2mp-HcYKs9OIMkYItTS1?usp=sharing) (2021)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -65,8 +69,98 @@ Main
 Connor Gilroy {#title}
 --------------------------------------------------------------------------------
 
-### Computational sociologist & PhD student
+### Computational social scientist & PhD candidate
 
+Sociologist seeking roles in data science or quantitative social science. I have 7+ years of experience analyzing text, spatial, network, and survey data, with broad skills in statistics, programming, and written and visual communication of analytic insights. My dissertation research uses NLP methods and survey data to explain variations in expressions and experiences of community across digital and location-based contexts.
+
+Employment {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+<!-- ### Graduate Teaching Assistant & Instructor -->
+
+<!-- University of Washington  -->
+
+<!-- Seattle, WA -->
+
+<!-- present - 2016 -->
+
+<!-- Taught sections and courses including sociological theory, data and society (undergraduate), social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate) | **R, Stata, Stan** -->
+
+### University of Washington 
+
+N/A
+
+Seattle, WA
+
+present - 2015
+
+**Graduate Teaching Assistant & Instructor:** Taught sections and courses including sociological theory, data and society (undergraduate), social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate) | **R, Stata, Stan**
+
+**Graduate Research Assistant:** Analyzed Twitter networks of US homeless care organizations, built a web crawler and a PostgreSQL database to scrape and store text data from nonprofit and government webpages (with Zack Almquist); built an agent-based network model of public opinion change (with Katherine Stovel) | **R, Python, SQL, NetLogo**
+
+### Meta
+
+N/A
+
+Seattle, WA
+
+summer 2022, 2021, 2020
+
+**Data Science Intern (2022):** Analyzed feed engagement with reshared Groups content, built a data pipeline to create a new experimental metric, and reanalyzed a collection of experiments to quantify tradeoffs between types of content  | **R, Python, SQL**
+
+**User Experience Research Intern (2021, 2020):** Designed, fielded, and analyzed a complex survey of job seeker needs and satisfaction (2021); designed and conducted quantitative studies (behavioral log data analysis + survey) of factors driving initial participation in new communities (2020) | **R, Python, SQL**
+
+<!-- ### Data Science Intern -->
+
+<!-- Meta -->
+
+<!-- Seattle, WA -->
+
+<!-- 2022 -->
+
+<!-- Analyzed feed engagement with reshared Groups content, built a data pipeline to create a new experimental metric, and reanalyzed a collection of experiments to quantify tradeoffs between types of content  | **R, Python, SQL** -->
+
+<!-- ### Graduate Research Assistant -->
+
+<!-- University of Washington  -->
+
+<!-- Seattle, WA -->
+
+<!-- 2022 - 2015 -->
+
+<!-- Analyzed Twitter networks of US homeless care organizations, built a web crawler and a PostgreSQL database to scrape and store text data from nonprofit and government webpages (with Zack Almquist); built an agent-based network model of public opinion change (with Katherine Stovel) | **R, Python, SQL, NetLogo** -->
+
+<!-- ### User Experience Research Intern -->
+
+<!-- Facebook -->
+
+<!-- Seattle, WA -->
+
+<!-- 2021, 2020 -->
+
+<!-- - Designed, fielded, and analyzed a complex survey of job seeker needs and satisfaction (2021) | **R, Python, SQL** -->
+<!-- - Designed and conducted quantitative studies (behavioral log data analysis + survey) of factors driving initial participation in new communities (2020) | **R, SQL** -->
+
+### The World Bank Group
+
+N/A
+
+Washington, DC
+
+2020
+
+**Consultant, Survey Data Analysis:** Created statistical models and data visualizations of gender-based individual and household disparities in Central Asia | **R**
+
+
+### Epic Systems Corporation 
+
+N/A
+
+Verona, WI
+
+2015 - 2013
+
+**Quality Assurance:** Automated and manual software testing for web APIs and enterprise healthcare software | **C#, Python, Excel**
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -77,11 +171,11 @@ University of Washington
 
 Seattle, WA
 
-expected 2023 - 2018
+expected 2023
 
 <!-- Comprehensive Exam: "Community: Origins, Processes, and Consequences." *Passed with distinction, June 2019* -->
 
-- Certificate: Special Concentration in Social Statistics. *May 2019*
+<!-- - Certificate: Special Concentration in Social Statistics. *May 2019* -->
 
 ### MA, Sociology
 
@@ -89,9 +183,9 @@ University of Washington
 
 Seattle, WA
 
-2018 - 2015
+2018
 
-- Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." *Distinguished Thesis Award in Social Sciences, 2019*
+<!-- - Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." *Distinguished Thesis Award in Social Sciences, 2019* -->
 
 ### BA, Biology and Geophysical Sciences
 
@@ -99,85 +193,30 @@ University of Chicago
 
 Chicago, IL
 
-2013 - 2009
+2013
 
 <!-- Minor in Gender and Sexuality Studies -->
 
 
-Experience {data-icon=laptop}
---------------------------------------------------------------------------------
 
-### Graduate Research Assistant
 
-University of Washington 
-
-Seattle, WA
-
-present - 2015
-
-- Agent-based network models (with Katherine Stovel), text and network community detection (with Zack Almquist) | **R, Python, NetLogo**
-
-### User Experience Research Intern
-
-Facebook
-
-Seattle, WA
-
-2021, 2020
-
-- Complex survey of job seeker needs and satisfaction (2021) | **R, Python, SQL**
-- Quantitative studies of participation in new communities (2020) | **R, SQL**
-
-### Consultant, Survey Data Analysis
-
-The World Bank Group
-
-Washington, DC
-
-2020
-
-- Modeling and visualization of gender-based disparities in Central Asia | **R**
-
-### Graduate Teaching Assistant & Instructor
-
-University of Washington 
-
-Seattle, WA
-
-2020 - 2016
-
-- Sections and courses taught: sociological theory, data and society (undergraduate), social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate) | **R, Stata, Stan**
-
-### Quality Assurance
-
-Epic Systems Corporation 
-
-Verona, WI
-
-2015 - 2013
-
-- Automated and manual software testing | **C#, Python, Excel**
-
-Selected Publications {data-icon=book}
+Selected Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Digital Traces of Sexualities: Understanding the Salience of Sexual Identity through Disclosure on Social Media
 
-N/A
+**Gilroy, Connor** and Ridhi Kashyap. *Socius* 7: 1--18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
 
 N/A
 
 2021
 
-**Gilroy, Connor** and Ridhi Kashyap. *Socius* 7: 1--18. [doi: 10.1177/23780231211029499](https://doi.org/10.1177/23780231211029499)
 
 ### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data 
 
-N/A
+Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
 
 N/A
 
 2019
-
-Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Morgan, Kivan Polimis, Adaner Usmani, and Tong Wang. *Socius* 5: 1--15. [doi: 10.1177/2378023118820157](https://doi.org/10.1177/2378023118820157). (corresponding author)
 
