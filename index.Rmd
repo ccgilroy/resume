@@ -173,6 +173,8 @@ Seattle, WA
 
 expected 2023
 
+Dissertation: "Expressions of Community: Understanding Variations in Community through LGBTQ Experiences."
+
 <!-- Comprehensive Exam: "Community: Origins, Processes, and Consequences." *Passed with distinction, June 2019* -->
 
 <!-- - Certificate: Special Concentration in Social Statistics. *May 2019* -->
@@ -185,7 +187,7 @@ Seattle, WA
 
 2018
 
-<!-- - Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." *Distinguished Thesis Award in Social Sciences, 2019* -->
+Thesis: "How Distinct is Gay Neighborhood Change? Patterns and Variation in Gayborhood Trajectories." *Distinguished Thesis Award in Social Sciences, 2019.* Joined webscraped and geocoded gay bar data with Census data to statistically compare trajectories of change in gayborhoods to matched neighborhoods.
 
 ### BA, Biology and Geophysical Sciences
 
@@ -211,6 +213,8 @@ N/A
 
 2021
 
+Compiled a dataset through the Facebook Marketing API, fit Bayesian loglinear models to the results, and used simulations from those models to produce visualizations of variations in sexual identity disclosure rates by age, gender, and relationship status. Funded by an NIH Big Data to Knowledge (BD2K) fellowship.
+
 
 ### Humans in the Loop: Incorporating Expert and Crowdsourced Knowledge for Predictions using Social Survey Data 
 
@@ -219,4 +223,6 @@ Filippova, Anna, **Connor Gilroy**, Ridhi Kashyap, Antje Kirchner, Allison C. Mo
 N/A
 
 2019
+
+Fit regularized regression models to predict life outcomes from survey data, varying the coefficient penalties according to human-derived variable importance ranking from a wikisurvey. Managed the reproducibility of our code base and coordinated the project writeup. Funded by the Russell Sage Foundation Summer Institute in Computational Social Science.
 
