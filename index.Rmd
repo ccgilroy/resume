@@ -39,7 +39,7 @@ R, Python, SQL, Stan
 - **Data collection:** webscraping and crawling, geocoding, APIs (US Census, social media)
 - **Databases:** Hive and PostgreSQL
 - **Surveys:** stratified survey design and weighting
-- **Statistical modeling:** GLMs, hierarchical models, regularized regression, Bayesian statistics
+- **Statistical modeling:** GLMs, hierarchical models, regularized regression, random forests, Bayesian statistics
 - **Text analysis:** topic modeling, word embeddings
 - **Data visualization:** ggplot2, matplotlib, shiny
 
@@ -94,9 +94,9 @@ Seattle, WA
 
 present - 2015
 
-**Graduate Teaching Assistant & Instructor:** Taught sections and courses including sociological theory, data and society (undergraduate), social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate) | **R, Stata, Stan**
+**Graduate Teaching Assistant & Instructor:** Taught sections and courses including sociological theory, data and society (undergraduate); social statistics, data science and population processes, Bayesian statistics for the social sciences (graduate); digital demography and word embeddings for social sciences (workshops)
 
-**Graduate Research Assistant:** Analyzed Twitter networks of US homeless care organizations, built a web crawler and a PostgreSQL database to scrape and store text data from nonprofit and government webpages (with Zack Almquist); built an agent-based network model of public opinion change (with Katherine Stovel) | **R, Python, SQL, NetLogo**
+**Graduate Research Assistant:** Analyzed Twitter networks of US homeless care organizations; built a web crawler and a PostgreSQL database to collect and store text data from nonprofit and government webpages (with Zack Almquist). Built an agent-based network model of public opinion change (with Katherine Stovel)
 
 ### Meta
 
@@ -106,40 +106,10 @@ Seattle, WA
 
 summer 2022, 2021, 2020
 
-**Data Science Intern (2022):** Analyzed feed engagement with reshared Groups content, built a data pipeline to create a new experimental metric, and reanalyzed a collection of experiments to quantify tradeoffs between types of content  | **R, Python, SQL**
+**Data Science Intern (2022):** Analyzed feed engagement with reshared Facebook Groups content, presented insights to the Director of Data Science for Communities, built a data pipeline to create a new metric, reanalyzed a collection of experiments to quantify tradeoffs between types of content, and launched a new experiment to assess incremental value of reshared content (Communities Ecosystem team)
 
-**User Experience Research Intern (2021, 2020):** Designed, fielded, and analyzed a complex survey of job seeker needs and satisfaction (2021); designed and conducted quantitative studies (behavioral log data analysis + survey) of factors driving initial participation in new communities (2020) | **R, Python, SQL**
+**Quantitative User Experience Research Intern (2020, 2021):** Designed and conducted two studies (log data analysis with random forest models, behaviorally-targeted followup survey) of factors driving initial participation in new online communities (2020, Community Creation team). Designed, fielded, and analyzed a complex stratified survey of job seeker needs and satisfaction; wrote a widely-referenced technical guide to creating inverse probability weights for nonresponse using an internal Python tool; evaluated quality of an external vendor's missing data imputation for a sensitive survey question (2021, Commerce Ecosystem team)
 
-<!-- ### Data Science Intern -->
-
-<!-- Meta -->
-
-<!-- Seattle, WA -->
-
-<!-- 2022 -->
-
-<!-- Analyzed feed engagement with reshared Groups content, built a data pipeline to create a new experimental metric, and reanalyzed a collection of experiments to quantify tradeoffs between types of content  | **R, Python, SQL** -->
-
-<!-- ### Graduate Research Assistant -->
-
-<!-- University of Washington  -->
-
-<!-- Seattle, WA -->
-
-<!-- 2022 - 2015 -->
-
-<!-- Analyzed Twitter networks of US homeless care organizations, built a web crawler and a PostgreSQL database to scrape and store text data from nonprofit and government webpages (with Zack Almquist); built an agent-based network model of public opinion change (with Katherine Stovel) | **R, Python, SQL, NetLogo** -->
-
-<!-- ### User Experience Research Intern -->
-
-<!-- Facebook -->
-
-<!-- Seattle, WA -->
-
-<!-- 2021, 2020 -->
-
-<!-- - Designed, fielded, and analyzed a complex survey of job seeker needs and satisfaction (2021) | **R, Python, SQL** -->
-<!-- - Designed and conducted quantitative studies (behavioral log data analysis + survey) of factors driving initial participation in new communities (2020) | **R, SQL** -->
 
 ### The World Bank Group
 
@@ -149,7 +119,7 @@ Washington, DC
 
 2020
 
-**Consultant, Survey Data Analysis:** Created statistical models and data visualizations of gender-based individual and household disparities in Central Asia | **R**
+**Consultant, Survey Data Analysis:** Created statistical models and data visualizations of gender-based disparities in Central Asia; wrote reproducible R pipeline for updating reports with new waves of survey data
 
 
 ### Epic Systems Corporation 
@@ -160,7 +130,7 @@ Verona, WI
 
 2015 - 2013
 
-**Quality Assurance:** Automated and manual software testing for web APIs and enterprise healthcare software | **C#, Python, Excel**
+**Quality Assurance:** Automated and manual software testing for web APIs and enterprise healthcare software
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
